@@ -3,7 +3,7 @@ const ctx = document.getElementById('barChart');
 new Chart(
     ctx, {
         type: 'bar',
-        datas:{
+        data:{
             labels:["red","blue","yellow"],
             datasets:[
                 {
