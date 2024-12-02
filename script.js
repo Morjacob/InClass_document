@@ -4,13 +4,13 @@ new Chart(
     ctx, {
         type: 'bar',
         data:{
-            labels:["pink","blue","yellow"],
+            labels:["red","blue","yellow"],
             datasets:[
                 {
                     label:"Votes",
                     data:[12,19,3],
-                    borderWidth: 2,
-                    backgroundColor: ['pink','blue','yellow'],
+                    borderWidth: 4,
+                    backgroundColor: ['red','blue','yellow'],
                     borderColor: [
                         'rgba(245,0,9)',
                         'rgba(5,0,249',
