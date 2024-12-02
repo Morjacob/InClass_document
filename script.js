@@ -9,7 +9,7 @@ new Chart(
                 {
                     label:"Votes",
                     data:[12,19,3],
-                    borderWidth: 4,
+                    borderWidth: 2,
                     backgroundColor: [ 
                         'rgba(245,0,9,0.45)',
                         'rgba(5,0,249,0.45)',
