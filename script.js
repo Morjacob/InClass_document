@@ -9,7 +9,9 @@ new Chart(
                 {
                     label:"Votes",
                     data:[12,19,3],
-                    backgroundColor: ['pink','blue','yellow']
+                    borderWidth: 2,
+                    backgroundColor: ['pink','blue','yellow'],
+                    borderColor: ['pink','blue','yellow']
                 }
             ]
         }
